@@ -3,4 +3,5 @@ Official ShockWavE:PRO BBS (DOS) Pascal Source. This is the actual source from t
 
 This repository is here for nostalgia and historical purposes.  I'm pretty sure it won't compile and I've missed some files. 
 
+http://shockwaveprobbs.com/
 http://cyberdyne.org
